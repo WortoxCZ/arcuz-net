@@ -1,0 +1,1 @@
+Object.registerClass("dlgCompose",ComposeDialog);

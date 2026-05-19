@@ -1,0 +1,1 @@
+Object.registerClass("wolf",Wolf);

@@ -1,0 +1,2 @@
+funcId = "fullMagicRelease";
+stop();

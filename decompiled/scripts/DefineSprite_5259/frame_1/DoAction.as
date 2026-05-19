@@ -1,0 +1,2 @@
+funcId = "magicPowerRelease";
+stop();

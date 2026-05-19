@@ -1,0 +1,13 @@
+# Runtime state — accumulates on the host as people play
+relay/world.json
+
+# Future-proof (relay has no deps right now, but if any get added)
+relay/node_modules/
+
+# Build artifacts
+arcuz-test.swf
+dist/arcuz-coop.zip
+
+# OS junk
+.DS_Store
+Thumbs.db

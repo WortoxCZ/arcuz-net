@@ -1,0 +1,2 @@
+funcId = "speedUp";
+stop();

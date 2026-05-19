@@ -1,0 +1,2 @@
+funcId = "hollyLight";
+stop();

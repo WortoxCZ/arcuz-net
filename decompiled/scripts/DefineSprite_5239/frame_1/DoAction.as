@@ -1,0 +1,2 @@
+funcId = "specialAttack";
+stop();

@@ -1,0 +1,1 @@
+netHost=127.0.0.1&netPort=8843&netName=Player1&netCellOn=on&netBcastOn=on&netAvOn=on&netEnemyOn=on&netStashOn=on&netVfxOn=on&netDbgOn=on

@@ -1,0 +1,2 @@
+funcId = "bladePulseRelease";
+stop();
