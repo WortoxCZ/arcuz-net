@@ -7,7 +7,8 @@ Play the Arcuz action-RPG together online. One player HOSTS
 
 Co-op features: you see each other in the world, share enemies
 when on the same screen, shared quests and story progress, XP
-to everyone, shared loot, and a shared item box at Knight Paul.
+to everyone, shared loot, and a shared item box (open your
+inventory and press G to deposit a hovered item or withdraw).
 Your character (gear, stats, skills, level) is saved locally
 and is yours alone.
 

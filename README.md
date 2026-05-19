@@ -22,8 +22,8 @@ rightful holder ever surfaces, this will be taken down.
   - Final boss — body, HP, melee, all ranged attacks (fire rain, ice volleys,
     ice ring), and the rage-mode 4-ghost elemental summon
 - **Shared progression** — quests and story fully shared; full XP to every
-  player in the cell; loot rolled independently per player; shared Knight Paul
-  stash arbitrated by the relay.
+  player in the cell; loot rolled independently per player; shared item box
+  (open inventory + press **G**) arbitrated by the relay.
 - **Persistence** — story + stash saved to `world.json` on the host, survives
   restarts.
 - **Quality-of-life tweaks** — compose-fail removed, rarity drops boosted,
@@ -52,7 +52,6 @@ port-forwards TCP 8843.
 | `patch-test/` | same plus dev toggles (invincibility on `H`, infinite SP, forced level 15, a complex-enemy layout on Arcuz Plains) |
 | `relay/relay.js` | tiny Node TCP server — session/cell/snapshot routing, story+stash persistence |
 | `dist/arcuz-coop/` | the playable distributable (also zipped as `dist/arcuz-coop.zip`) |
-| `PLAN.md` | original design + locked decisions |
 
 Most of the technique is in `patch/frame_2/DoAction.as` (extensions, prototype
 hooks, viewer-side attack replication, ghost summon/split sync) and
